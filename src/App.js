@@ -118,5 +118,5 @@ class App extends React.Component {
 
 export default App;
 
-/** React Weather App photo: Photo by Ioannis Ritos from Pexels
-React Weather App photo: Lights Photo by iStock **/
+/* * * React Weather App photo: Photo by Ioannis Ritos from Pexels
+React Weather App photo: Lights Photo by iStock * * */
